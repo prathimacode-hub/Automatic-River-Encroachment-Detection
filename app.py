@@ -58,7 +58,7 @@ st.markdown(
             color: black;
         }
         div[data-baseweb="base-input"] > div {
-            background-color: #aab7b8 !important;
+            background-color: #c7c195 !important;
             color: black;
         }
         
@@ -69,22 +69,22 @@ st.markdown(
             color: black !important;
         }
         .st-fg, .st-fi {
-            background-color: #c6703b !important;
+            background-color: #c71227 !important;
             color: black !important;
         }
        
         
         .st-g0 {
-            border-bottom-color: #c6703b !important;
+            border-bottom-color: #c71227 !important;
         }
         .st-fz {
-            border-top-color: #c6703b !important;
+            border-top-color: #c71227 !important;
         }
         .st-fy {
-            border-right-color: #c6703b !important;
+            border-right-color: #c71227 !important;
         }
         .st-fx {
-            border-left-color: #c6703b !important;
+            border-left-color: #c71227 !important;
         }
     </style>
     """,
@@ -112,7 +112,7 @@ if add_selectbox == 'Home':
         .logo-text {
              font-weight:700 !important;
              font-size:50px !important;
-             color: #f9a01b !important;
+             color: #006400 !important;
              padding-top: 75px !important;
         }
         .logo-img {
