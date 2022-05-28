@@ -101,7 +101,7 @@ add_selectbox = st.sidebar.radio(
 
 if add_selectbox == 'Home':
     
-    LOGO_IMAGE = "omdena_bangladesh_logo.png"
+    LOGO_IMAGE = "omdena-bangladesh-logo.png"
     
     st.markdown(
           """
