@@ -1,5 +1,10 @@
 # Automatic-River-Encroachment-Detection
 
+Challenge hosted by **Omdena Bangladesh Chapter**
+
+The challenge focuses on Automatic River Encroachment Detection Application that visualizes the encroachment spots of the river banks of "Buriganga" river.
+
+
 ## Problem Statement
 
 River encroachment is a threatening problem that has been going on for a few years now. Bangladesh Govt. has been relentlessly working to free rivers from encroachment after ensuring their navigability by dredging them round the year. BIWTA has removed a total of 18,025 illegal structures from riverbanks between 2010 and 2019 and reclaimed 738 acres of riverbanks from encroachments in Dhaka and Narayanganj river port areas. The National River Conservation Commission says 50 percent of the rivers have been freed from the clutch of grabbers, but the rate is only 7 percent in Barishal, the lawyer said. Bangladesh has around 800 rivers. The State Minister recently said over 65,000 grabbers have encroached on the rivers.
