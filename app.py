@@ -69,22 +69,22 @@ st.markdown(
             color: black !important;
         }
         .st-fg, .st-fi {
-            background-color: #c71227 !important;
+            background-color: #FF5733 !important;
             color: black !important;
         }
        
         
         .st-g0 {
-            border-bottom-color: #c71227 !important;
+            border-bottom-color: #FF5733 !important;
         }
         .st-fz {
-            border-top-color: #c71227 !important;
+            border-top-color: #FF5733 !important;
         }
         .st-fy {
-            border-right-color: #c71227 !important;
+            border-right-color: #FF5733 !important;
         }
         .st-fx {
-            border-left-color: #c71227 !important;
+            border-left-color: #FF5733 !important;
         }
     </style>
     """,
@@ -112,7 +112,7 @@ if add_selectbox == 'Home':
         .logo-text {
              font-weight:700 !important;
              font-size:50px !important;
-             color: #006400 !important;
+	     color: #FF5733 !important; 
              padding-top: 75px !important;
         }
         .logo-img {
