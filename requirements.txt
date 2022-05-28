@@ -19,7 +19,6 @@ plotly==5.5.0
 keplergl==0.3.2
 streamlit_keplergl==0.1.0
 plotly-express==0.4.1
-psycopg2==2.7.6
 googletrans==3.0.0
 spacy==3.2
 spacy-streamlit==1.0.2
