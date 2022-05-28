@@ -28,3 +28,13 @@ We had choosen "Keraniganj", "Kamrangirchar" and "Bosilsaa" as our regions of in
 • Machine Learning - Python, Jupyter Notebook ()
 • Dashboard - Streamlit
 
+
+## Team :
+
+## Collaborators
+
+- Ricard Borras
+- Prathima Kadari
+- Vaishnavi Kanagasabapathi
+
+# Project Manager : Shawon Kazi
