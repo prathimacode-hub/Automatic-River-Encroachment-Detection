@@ -225,4 +225,4 @@ elif add_selectbox == 'Team':
 
     st.subheader('PROJECT MANAGER')
 
-    st.markdown('<a href="https://www.linkedin.com/in/galina-naydenova-msc-fhea-b89856196/">Shawon Kazi</a>', unsafe_allow_html=True)
+    st.markdown('<a href="https://www.linkedin.com/in/kazi-saiful-islam-shawon-66116b160/">Shawon Kazi</a>', unsafe_allow_html=True)
