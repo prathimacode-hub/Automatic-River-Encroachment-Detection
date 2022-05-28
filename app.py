@@ -1,6 +1,6 @@
-import altair as alt
+#import altair as alt
 import datetime
-import folium
+#import folium
 import geopandas as gpd
 import geopy
 import json
@@ -16,7 +16,7 @@ import plotly.offline as pyo
 import requests
 import seaborn as sns
 import streamlit as st
-import psycopg2
+#import psycopg2
 
 from folium.features import DivIcon
 from googletrans import Translator
