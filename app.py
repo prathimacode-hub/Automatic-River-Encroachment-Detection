@@ -151,7 +151,7 @@ elif add_selectbox == 'About':
     st.markdown('• Develop an automatic encroachment detection for certain rivers and deliver geolocations of them.', unsafe_allow_html=True) 
     st.markdown('• Outline an AI-driven solution to improve the cautioning system for Bangladesh.', unsafe_allow_html=True) 
     
-    st.markdown('<h4>Location Choosen</h4>', unsafe_allow_html=True)
+    st.markdown('<h4>Locations Choosen</h4>', unsafe_allow_html=True)
     st.markdown('We had choosen "Keraniganj", "Kamrangirchar" and "Bosilsaa" as our regions of interest, which is onto the river banks of "Buriganga" river. Its located in the city premises of Dhaka',
                 unsafe_allow_html=True)
     
