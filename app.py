@@ -1,6 +1,6 @@
 #import altair as alt
 import datetime
-#import folium
+import folium
 import geopandas as gpd
 import geopy
 import json
