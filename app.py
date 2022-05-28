@@ -144,14 +144,17 @@ if add_selectbox == 'Home':
 elif add_selectbox == 'About':
     
     st.subheader('ABOUT THE PROJECT')
+	
+	
+Process the data following a systematic methodology and do exploratory data analysis of illegally occupied river banks.
+Develop an automatic encroachment detection for certain rivers and deliver geolocations of them.
+Outline an AI-driven solution to improve the cautioning system for Bangladesh.
 
     st.markdown('<h4>Project Goals</h4>', unsafe_allow_html=True)
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• ', unsafe_allow_html=True) 
+    st.markdown('• Collect data from opensource satellite images of specific rivers of Bangladesh, such as Buriganga, Meghna, etc, and extract necessary information with remote sensing analysis.', unsafe_allow_html=True) 
+    st.markdown('• Process the data following a systematic methodology and do exploratory data analysis of illegally occupied river banks.', unsafe_allow_html=True) 
+    st.markdown('• Develop an automatic encroachment detection for certain rivers and deliver geolocations of them.', unsafe_allow_html=True) 
+    st.markdown('• Outline an AI-driven solution to improve the cautioning system for Bangladesh.', unsafe_allow_html=True) 
     
     st.markdown('<h4>Location Choosen</h4>', unsafe_allow_html=True)
     st.markdown('We had choosen "Keraniganj", "Kamrangirchar" and "Bosilsaa" as our regions of interest, which is onto the river banks of "Buriganga" river. Its located in the city premises of Dhaka',
