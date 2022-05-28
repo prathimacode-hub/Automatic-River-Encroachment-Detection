@@ -14,9 +14,12 @@ River encroachment is a threatening problem that has been going on for a few yea
 
 ## Project Goals :
 
-• Collect data from opensource satellite images of specific rivers of Bangladesh, such as Buriganga, Meghna, etc, and extract necessary information with remote sensing analysis.
+• Collect data from open-source satellite images of specific rivers of Bangladesh, such as Buriganga, Meghna, etc, and extract necessary information with remote sensing analysis.
+
 • Process the data following a systematic methodology and do exploratory data analysis of illegally occupied river banks.
+
 • Develop an automatic encroachment detection for certain rivers and deliver geolocations of them.
+
 • Outline an AI-driven solution to improve the cautioning system for Bangladesh.
 
 
@@ -28,9 +31,13 @@ We had choosen "Keraniganj", "Kamrangirchar" and "Bosilsaa" as our regions of in
 ## Tech Stack :
 
 • Data Collection -
+
 • Data Preprocessing -
+
 • Exploratory Data Analysis & Visualizations -
+
 • Machine Learning - Python, Jupyter Notebook ()
+
 • Dashboard - Streamlit
 
 
